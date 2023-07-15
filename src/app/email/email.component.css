@@ -1,0 +1,13 @@
+.field{
+    width: 100%;
+}
+.card{
+    /* display: flex;
+    flex-direction: column; */
+    /* align-items: center; */
+    margin: auto;
+    width: 60%;
+}
+.container{
+    margin-top: 50px;
+}

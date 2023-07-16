@@ -10,7 +10,7 @@ import {MatSnackBar , MatSnackBarModule} from '@angular/material/snack-bar';
 import { HomeComponent } from './components/home/home.component';
 import {MatToolbarModule} from '@angular/material/toolbar';
 import {MatIconModule} from '@angular/material/icon';
-import { EmailComponent } from './email/email.component';
+import { EmailComponent } from './components/email/email.component';
 import {MatFormFieldModule, MatLabel} from '@angular/material/form-field';
 import {MatInputModule} from '@angular/material/input';
 import { FormsModule } from '@angular/forms';

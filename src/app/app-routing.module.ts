@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { EmailComponent } from './email/email.component';
+import { EmailComponent } from './components/email/email.component';
 import { HomeComponent } from './components/home/home.component';
 
 const routes: Routes = [
